@@ -25,9 +25,9 @@ Estimate of time needed to complete: **30 minutes**
 
 Start time: **12:30 PM**
 
-Finish time: _____
+Finish time: **1:10 PM**
 
-Actual time needed to complete: _____
+Actual time needed to complete: **40 minutes**
 
 #### Why are we implementing this feature?
 As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
