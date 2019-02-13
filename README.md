@@ -1,13 +1,13 @@
 # portfolio
 
 ### Feature #1: Refactor the CSS
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete: **1 hour**
 
-Start time: 10:05 AM
+Start time: **10:05 AM**
 
-Finish time: _____
+Finish time: **12:25 PM**
 
-Actual time needed to complete: _____
+Actual time needed to complete: **2 hours, 20 minutes**
 
 #### Why are we implementing this feature?
 As a user, I want the portfolio to have a clean UI so that it is visually appealing.
@@ -21,13 +21,13 @@ You may decide how many files to include, but at the minimum should include base
 
 ---
 ### Feature #2: Modify the contents
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: **30 minutes**
 
-Start time: _____
+Start time: **12:30 PM**
 
-Finish time: _____
+Finish time: **1:10 PM**
 
-Actual time needed to complete: _____
+Actual time needed to complete: **40 minutes**
 
 #### Why are we implementing this feature?
 As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
