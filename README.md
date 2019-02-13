@@ -1,9 +1,9 @@
 # portfolio
 
 ### Feature #1: Refactor the CSS
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 10:05 AM
 
 Finish time: _____
 
