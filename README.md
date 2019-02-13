@@ -13,9 +13,10 @@ As a user, I want the portfolio to have a clean UI so that it is visually appeal
 Given that a user opens the application in the browser
 When the user navigates to the home page
 Then the portfolio contents should be displayed
-#### How are we implementing it?
+#### How are we implementing it? 
 Refactor the main.css file using SMACSS principles.
-You may decide how many files to include, but at the minimum should include base.css, layout.css, and modules.css. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a modules folder, if you feel that the code needs to be organized in that manner.
+You may decide how many files to include, but at the minimum should include base.css, layout.css, and modules.css. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a modules folder, if you feel that the code needs to be organized in that manner. 
+
 ---
 ### Feature #2: Modify the contents
 Estimate of time needed to complete: _____
