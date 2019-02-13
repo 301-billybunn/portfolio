@@ -1,6 +1,5 @@
 # portfolio
 
----
 ### Feature #1: Refactor the CSS
 Estimate of time needed to complete: _____
 
@@ -10,7 +9,7 @@ Finish time: _____
 
 Actual time needed to complete: _____
 
-#### Why are we implementing this feature?**
+#### Why are we implementing this feature?
 As a user, I want the portfolio to have a clean UI so that it is visually appealing.
 #### What are we going to implement?
 Given that a user opens the application in the browser
