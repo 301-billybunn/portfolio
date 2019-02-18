@@ -659,8 +659,9 @@
       }
       
       #main>section.one {
-        background-color: #81918E;
-        background-image: url("../../images/banner.jpg");
+        background-color: transparent;
+        /* position: relative; */
+        /* background-image: url("../../images/banner.jpg"); */
       }
       
       #main>section.two {
