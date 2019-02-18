@@ -1,5 +1,5 @@
 @import url("fonts/font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600");
 /*
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
@@ -17,8 +17,8 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background: #6F6866;
+  font-family: 'Open Sans', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -37,7 +37,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 }
 
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
