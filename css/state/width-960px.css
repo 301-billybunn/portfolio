@@ -2,7 +2,7 @@
 /* Container */
 /* -------------------------------------------------- */
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 425px) {
     .container {
       width: 100%;
     }
@@ -12,7 +12,7 @@
 /* Row */
 /* -------------------------------------------------- */
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 425px) {
     .row {
       display: flex;
       flex-wrap: wrap;
@@ -206,7 +206,13 @@
   /* Narrower */
   /* -------------------------------------------------- */
 
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 425px) {
+    #header {
+      width: 20%;
+    }
+  }
+
+  @media screen and (max-width: 425px) {
     /* Basic */
     html, body {
       overflow-x: hidden;
