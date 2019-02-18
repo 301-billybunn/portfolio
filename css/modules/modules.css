@@ -660,8 +660,8 @@
       
       #main>section.one {
         background-color: transparent;
-        /* position: relative; */
         /* background-image: url("../../images/banner.jpg"); */
+        position: relative;
       }
       
       #main>section.two {
