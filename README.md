@@ -1,5 +1,7 @@
 # portfolio
 
+## Lab 02a - Personal Portfolio
+
 ### Feature #1: Refactor the CSS
 Estimate of time needed to complete: **1 hour**
 
@@ -48,3 +50,32 @@ Then the content should be unique and reflect the skills and personality of the 
 - Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
 ---
+## Lab 5: Extend your portfolio
+
+### Feature #1: Add functionality
+Estimate of time needed to complete: **2 hours**
+
+Start time: **9:30 AM**
+
+Finish time: **______**
+
+Actual time needed to complete: **______**
+
+#### Why are we implementing this feature?
+
+- As a user, I want to view a unique portfolio so that the developer's projects and skills stand out.
+
+#### What are we going to implement?
+
+Given that a user opens the application in the browser  
+When the user navigates to the home page  
+Then the portfolio contents should be displayed  
+
+#### How are we implementing it?
+
+- Complete the following features:
+  - Use CDNs for content from libraries and remove the source code files from the project, as applicable
+  - In tablet view, show a fixed navigation menu instead of a hamburger menu
+  - Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
+  - Add any other UI features that you feel will make your portfolio unique and personalized.301d
+  - Deploy your updated portfolio on Heroku.
